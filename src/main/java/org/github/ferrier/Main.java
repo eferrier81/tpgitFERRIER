@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         // commentaire : tip top, tres bon code, je recommande
-        // pas terrible cette version...
+        // Commentaire Conflit
         System.out.printf("Hello and welcome!");
 
         for (int i = 1; i <= 5; i++) {
